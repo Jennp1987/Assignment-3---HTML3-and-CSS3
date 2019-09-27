@@ -1,0 +1,87 @@
+body{
+    width: 960px;
+    margin: 0 0 0 20px; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+    line-height: 2em;
+}
+ul li{
+    list-style: none;
+    padding-left: 0;
+    margin-left: 0;
+    color:
+}
+h2 {
+    color: #CC1C0D;
+    border: solid 1px #929CA4;
+    background-color: #DFE3E6; 
+    border-radius: 8px;
+    padding-left: 10px;
+}
+a{
+    color: #CC1C0D;
+}
+ 
+img{
+    float:left; 
+    margin: 0 5px 0 0;
+    padding-top: 10px;
+    
+}
+.agnes img, .damon img, .herbert img, .mike img, .wilbur img{
+    border:1px solid #CC1C0D;
+    border-radius: 40px;
+    margin-right: 15px;
+    padding-top: 0;
+}
+.pricing div{
+    width: 232px;
+    float: left;
+    border: 1px solid #929CA4;
+    border-radius: 10px;
+    margin-right: 5px;
+    text-align: center;    
+}
+.pricing div img{
+    float:none;
+    padding-top:20px;
+}
+div:nth-child(1) h3{
+    border-top: 10px solid #CC1C0D;
+    
+}
+div:nth-child(2) h3{
+    border-top: 10px solid #37A4A4;
+    
+}
+
+div:nth-child(3) h3{
+    border-top: 10px solid #685288;
+    
+}
+
+div:nth-child(4) {
+   padding: 25px 0 0 0;
+    
+}
+div:nth-child(4) h3{    
+    border-top: 10px solid #000000;
+    margin-top: 30px;
+}
+#prospect ul li, #vconvert ul li, #vretain ul li  {
+    list-style:disc;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
